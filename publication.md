@@ -3,6 +3,11 @@ layout: page
 title: Publication
 ---
 
+***
+0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," submitted.
+
+***
+
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee,  "A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing," [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
