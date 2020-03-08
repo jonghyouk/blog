@@ -12,15 +12,15 @@ title: Publication
 
 0. Shijie Zhang and Jong-Hyouk Lee,  "A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing," [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
 
-0. Soonhong Kwon and Jong-Hyouk Lee, "DIVDS: Docker Image Vulnerability Diagnostic System," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), accepted.
-
-0. Seoyun Choi and Jong-Hyouk Lee, "Blockchain-based Distributed Firmware Update Architecture for IoT Devices," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), accepted.
-
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, "Design of a blind quantization based audio watermarking scheme using singular value decomposition," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
 0. Sein Myung and Jong-Hyouk Lee, "Ethereum Smart Contract based Automated Power Trading Algorithm in a Microgrid Environment," [Journal of Supercomputing](https://www.springer.com/journal/11227), accepted.
 
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, "Authentication Protocols for the Internet of Drones: Taxonomy, Analysis and Future Directions," [Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652), accepted.
+
+0. Soonhong Kwon and Jong-Hyouk Lee, "DIVDS: Docker Image Vulnerability Diagnostic System," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), accepted.
+
+0. Seoyun Choi and Jong-Hyouk Lee, "Blockchain-based Distributed Firmware Update Architecture for IoT Devices," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 37518-37525, February 2020.
 
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, "A Mean Quantization Watermarking Scheme for Audio Signals Using Singular-Value Decomposition," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 7, pp. 157480-157488, October 2019.
 
