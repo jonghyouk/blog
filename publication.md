@@ -14,8 +14,8 @@ title: Publication
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
-
 {: reversed="reversed" }
+
 # Published papers
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
 
@@ -184,5 +184,4 @@ title: Publication
 0. Jong-Hyouk Lee, Youn-Hee Han, Sri Gundavelli, and Tai-Myoung Chung, "A comparative performance analysis on Hierarchical Mobile IPv6 and Proxy Mobile IPv6," Telecommunication Systems, vol. 41, no. 4, pp. 279-292, August 2009. (IF: 0.286(2009), SCIE)
 
 0. Jong-Hyouk Lee and Tai-Myoung Chung, "Performance evaluation of distributed multiple home agents with HAHA Protocol," International Journal of Network Management, vol. 17, no. 2, pp. 107-115, March 2007. (IF: 0.323(2010), SCIE)
-
 {: reversed="reversed" }
