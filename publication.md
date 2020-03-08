@@ -11,12 +11,13 @@ title: Publication
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
+
 ---
 
 # Published papers
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
 
-0. Shijie Zhang and Jong-Hyouk Lee,  "A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing," [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
+0. Shijie Zhang and Jong-Hyouk Lee, "A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing," [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
 
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, "Design of a blind quantization based audio watermarking scheme using singular value decomposition," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
