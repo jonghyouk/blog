@@ -3,10 +3,11 @@ layout: page
 title: Publication
 ---
 
-- [Publication in Google Scholar](https://scholar.google.fr/citations?hl=en&user=OFLx1-4AAAAJ)
+- [Publication info. in Google Scholar](https://scholar.google.fr/citations?hl=en&user=OFLx1-4AAAAJ)
+- [ORCID: 0000-0002-1753-1284](https://orcid.org/0000-0002-1753-1284)
 
 # Working papers
-0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," Future Generation Computer Systems, submitted.
+0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems), submitted.
 
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," Digital Communications and Networks, submitted.
 
@@ -31,9 +32,9 @@ title: Publication
 
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, "A Mean Quantization Watermarking Scheme for Audio Signals Using Singular-Value Decomposition," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 7, pp. 157480-157488, October 2019.
 
-0. Shijie Zhang and Jong-Hyouk Lee, "Double-spending with a Sybil Attack in the Bitcoin Decentralized Network," [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), vol. 15, no. 10, pp. 5715-5722, October 2019. (IF: 7.377(2018), SCIE)
+0. Shijie Zhang and Jong-Hyouk Lee, "Double-spending with a Sybil Attack in the Bitcoin Decentralized Network," [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), vol. 15, no. 10, pp. 5715-5722, October 2019.
 
-0. Jong-Hyouk Lee, "Rise of Anonymous Cryptocurrencies: Brief Introduction," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 8, no. 5, pp. 20-25, September 2019. (IF: 3.273(2018), SCIE)
+0. Jong-Hyouk Lee, "Rise of Anonymous Cryptocurrencies: Brief Introduction," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 8, no. 5, pp. 20-25, September 2019.
 
 0. Shijie Zhang and Jong-Hyouk Lee, "Smart Contract-based Secure Model for Miner Registration and Block Validation," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 7, pp. 132087-132094, September 2019.
 
@@ -43,57 +44,57 @@ title: Publication
 
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, "User Authentication in a Tactile Internet Based Remote Surgery Environment: Security Issues, Challenges, and Future Research Directions," [Pervasive and Mobile Computing](https://www.journals.elsevier.com/pervasive-and-mobile-computing), vol. 54, pp. 71-85, March 2019.
 
-0. Sungbum Lee and Jong-Hyouk Lee, "TEE based Session Key Establishment Protocol for Secure Infotainment Systems," [Design Automation for Embedded Systems](https://www.springer.com/journal/10617), vol. 22, no. 3, pp. 215-224, September 2018. (IF: 0.516(2016), SCIE)
+0. Sungbum Lee and Jong-Hyouk Lee, "TEE based Session Key Establishment Protocol for Secure Infotainment Systems," [Design Automation for Embedded Systems](https://www.springer.com/journal/10617), vol. 22, no. 3, pp. 215-224, September 2018.
 
-0. Sarang Wi and Jong-Hyouk Lee, "Group Key Based Session Key Establishment Protocol for a Secure Remote Vehicle Diagnosis," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 19, no. 3, pp. 633-640, May 2018. (IF: 1.930(2016), SCIE)
+0. Sarang Wi and Jong-Hyouk Lee, "Group Key Based Session Key Establishment Protocol for a Secure Remote Vehicle Diagnosis," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 19, no. 3, pp. 633-640, May 2018.
 
-0. Kashif Munir, Ehtesham Zahoor, Raﬁa Rahim, Xavier Lagrange, and Jong-Hyouk Lee, "Secure and Fault-tolerant Distributed Location Management for Intelligent 5G Wireless Networks," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 6, pp. 18117-18127, April 2018. (IF: 3.244(2016), SCIE)
+0. Kashif Munir, Ehtesham Zahoor, Raﬁa Rahim, Xavier Lagrange, and Jong-Hyouk Lee, "Secure and Fault-tolerant Distributed Location Management for Intelligent 5G Wireless Networks," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 6, pp. 18117-18127, April 2018.
 
-0. Junling Zhang, Zhiwei Yan, Guanggang Geng, Xiaodong Lee, and Jong-Hyouk Lee, "Trademark protection for Chinese Domain Names," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 19, no. 2, pp. 315-324, March 2018. (IF: 1.930(2016), SCIE)
+0. Junling Zhang, Zhiwei Yan, Guanggang Geng, Xiaodong Lee, and Jong-Hyouk Lee, "Trademark protection for Chinese Domain Names," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 19, no. 2, pp. 315-324, March 2018.
 
-0. Jong-Hyouk Lee, "BIDaaS: Blockchain based ID as a Service," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 6, pp. 2274-2278, February 2018. (IF: 3.244(2016), SCIE)
+0. Jong-Hyouk Lee, "BIDaaS: Blockchain based ID as a Service," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 6, pp. 2274-2278, February 2018.
 
-0. Jian Jin, Zhiwei Yan, Jong-Hyouk Lee, and Guanggang Geng, "Health Evaluation of a Domain Name System Based on the Analytic Hierarchy Process," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 19, no. 1, pp. 25-32, January 2018. (IF: 1.930(2016), SCIE)
+0. Jian Jin, Zhiwei Yan, Jong-Hyouk Lee, and Guanggang Geng, "Health Evaluation of a Domain Name System Based on the Analytic Hierarchy Process," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 19, no. 1, pp. 25-32, January 2018.
 
-0. Ilsun You and Jong-Hyouk Lee, "SPFP: Ticket-based Secure Handover for Fast Proxy Mobile IPv6 in 5G Networks," [Computer Networks](https://www.journals.elsevier.com/computer-networks), vol. 129, pp. 363-372, December 2017. (IF: 1.446(2014), SCIE)
+0. Ilsun You and Jong-Hyouk Lee, "SPFP: Ticket-based Secure Handover for Fast Proxy Mobile IPv6 in 5G Networks," [Computer Networks](https://www.journals.elsevier.com/computer-networks), vol. 129, pp. 363-372, December 2017. 
 
-0. Debiao He, Sherali Zeadally, Neeraj Kumar, and Jong-Hyouk Lee, "Anonymous Authentication for Wireless Body Area Networks with Provable Security", [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 11, no. 4, pp. 2590-2601, December 2017. (IF: 1.980(2014), SCIE)
+0. Debiao He, Sherali Zeadally, Neeraj Kumar, and Jong-Hyouk Lee, "Anonymous Authentication for Wireless Body Area Networks with Provable Security", [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 11, no. 4, pp. 2590-2601, December 2017.
 
-0. Sehrish Malik and Jong-Hyouk Lee, "Adaptive Load Control Scheme for Emergency Biometric Data," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 18, no. 6, pp. 1369-1378, November 2017. (IF: 1.930(2016), SCIE)
+0. Sehrish Malik and Jong-Hyouk Lee, "Adaptive Load Control Scheme for Emergency Biometric Data," [Journal of Internet Technology](https://jit.ndhu.edu.tw), vol. 18, no. 6, pp. 1369-1378, November 2017. 
 
-0. Han Shen, Jian Shen, Muhammad Khurram Khan, and Jong-Hyouk Lee, "Efficient RFID Authentication Using Elliptic Curve Cryptography for the Internet of Things", [Wireless Personal Communications](https://www.springer.com/journal/11277), vol. 96, no. 4, pp. 5253-5266, October 2017. (IF: 0.653(2014), SCIE)
+0. Han Shen, Jian Shen, Muhammad Khurram Khan, and Jong-Hyouk Lee, "Efficient RFID Authentication Using Elliptic Curve Cryptography for the Internet of Things", [Wireless Personal Communications](https://www.springer.com/journal/11277), vol. 96, no. 4, pp. 5253-5266, October 2017. 
 
-0. Jong-Hyouk Lee and Hyoungshick Kim, "Security and Privacy Challenges in the Internet of Things," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 6, no. 3, pp. 134-136, July 2017. (IF: 1.153(2016), SCIE)
+0. Jong-Hyouk Lee and Hyoungshick Kim, "Security and Privacy Challenges in the Internet of Things," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 6, no. 3, pp. 134-136, July 2017. 
 
-0. Jong-Hyouk Lee and Marc Pilkington, "How the Blockchain Revolution Will Reshape the Consumer Electronics Industry," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 6, no. 3, pp. 19-23, July 2017. (IF: 1.153(2016), SCIE)
+0. Jong-Hyouk Lee and Marc Pilkington, "How the Blockchain Revolution Will Reshape the Consumer Electronics Industry," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 6, no. 3, pp. 19-23, July 2017.
 
-0. Boohyung Lee and Jong-Hyouk Lee, "Blockchain based secure firmware update for embedded devices in an Internet of Things environment," [Journal of Supercomputing](https://www.springer.com/journal/11227), vol. 73, no. 3, pp. 1152-1167, March 2017. (IF: 1.088(2015): SCI)
+0. Boohyung Lee and Jong-Hyouk Lee, "Blockchain based secure firmware update for embedded devices in an Internet of Things environment," [Journal of Supercomputing](https://www.springer.com/journal/11227), vol. 73, no. 3, pp. 1152-1167, March 2017.
 
-0. Jong-Hyouk Lee, "Secure Authentication with Dynamic Tunneling in Distributed IP Mobility Management," [IEEE Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742), vol. 23, no. 5, pp. 38-43, October 2016. (IF: 4.148(2015), SCI)
+0. Jong-Hyouk Lee, "Secure Authentication with Dynamic Tunneling in Distributed IP Mobility Management," [IEEE Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742), vol. 23, no. 5, pp. 38-43, October 2016. 
 
-0. Zhiwei Yan and Jong-Hyouk Lee, "Localized Paging in Proxy Mobile IPv6 Networks," [Annals of Telecommunications](https://www.springer.com/journal/12243), vol. 71, no. 9, pp. 539-547, October 2016. (IF: 0.699(2014): SCI)
+0. Zhiwei Yan and Jong-Hyouk Lee, "Localized Paging in Proxy Mobile IPv6 Networks," [Annals of Telecommunications](https://www.springer.com/journal/12243), vol. 71, no. 9, pp. 539-547, October 2016. 
 
-0. Neeraj Kumar, Jong-Hyouk Lee, Naveen Chilamkurti, and Alexey Vinel, "Energy-Efficient Multimedia Data Dissemination in Vehicular Clouds: Stochastic-Reward-Nets-Based Coalition Game Approach", [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 10, no. 2, pp. 847-858, June 2016. (IF: 1.980(2014), SCIE)
+0. Neeraj Kumar, Jong-Hyouk Lee, Naveen Chilamkurti, and Alexey Vinel, "Energy-Efficient Multimedia Data Dissemination in Vehicular Clouds: Stochastic-Reward-Nets-Based Coalition Game Approach", [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 10, no. 2, pp. 847-858, June 2016.
 
-0. Debiao He, Neeraj Kumar, Han Shen, and Jong-Hyouk Lee, "One-to-Many Authentication for Access Control in Mobile Pay-TV Systems," [Science China Information Sciences](https://www.springer.com/journal/11432), vol. 59, no. 5, May 2016. (IF: 0.850(2014): SCI)
+0. Debiao He, Neeraj Kumar, Han Shen, and Jong-Hyouk Lee, "One-to-Many Authentication for Access Control in Mobile Pay-TV Systems," [Science China Information Sciences](https://www.springer.com/journal/11432), vol. 59, no. 5, May 2016. 
 
-0. Byung-Chul Choi, Seoung-Hyeon Lee, Jung-Chan Na, and Jong-Hyouk Lee, "Secure Firmware Validation and Update for Consumer Devices in Home Networking," [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30), vol. 62, no. 1, pp. 39-44, February 2016. (IF: 1.045(2014), SCI)
+0. Byung-Chul Choi, Seoung-Hyeon Lee, Jung-Chan Na, and Jong-Hyouk Lee, "Secure Firmware Validation and Update for Consumer Devices in Home Networking," [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30), vol. 62, no. 1, pp. 39-44, February 2016. 
 
-0. Debiao He, Neeraj Kumar, and Jong-Hyouk Lee, "Privacy-preserving Data Aggregation Scheme against Internal Attackers in Smart Grids", [Wireless Networks](https://www.springer.com/journal/11276), vol. 22, no. 2, pp. 491-502, February 2016. (IF: 0.961(2014), SCI)
+0. Debiao He, Neeraj Kumar, and Jong-Hyouk Lee, "Privacy-preserving Data Aggregation Scheme against Internal Attackers in Smart Grids", [Wireless Networks](https://www.springer.com/journal/11276), vol. 22, no. 2, pp. 491-502, February 2016.
 
-0. Neeraj Kumar, Sudip Misra, Naveen Chilamkurti, Jong-Hyouk Lee, and Joel José Puga Coelho Rodrigues, "Bayesian Coalition Negotiation Game as a Utility for Secure Energy Management in a Vehicles-to-Grid Environment," [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), vol. 13, no. 1, pp. 133-145, January 2016. (IF: 1.351(2014), SCIE)
+0. Neeraj Kumar, Sudip Misra, Naveen Chilamkurti, Jong-Hyouk Lee, and Joel José Puga Coelho Rodrigues, "Bayesian Coalition Negotiation Game as a Utility for Secure Energy Management in a Vehicles-to-Grid Environment," [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), vol. 13, no. 1, pp. 133-145, January 2016. 
 
-0. Zhiwei Yan, Jong-Hyouk Lee, and Yong-Jin Park, "Distributed Proxies with Fast Handover Support for a PURSUIT based Networking Architecture," [Wireless Networks](https://www.springer.com/journal/11276), vol. 22, no. 1, pp. 307-318, January 2016. (IF: 0.961(2014), SCI)
+0. Zhiwei Yan, Jong-Hyouk Lee, and Yong-Jin Park, "Distributed Proxies with Fast Handover Support for a PURSUIT based Networking Architecture," [Wireless Networks](https://www.springer.com/journal/11276), vol. 22, no. 1, pp. 307-318, January 2016. 
 
-0. Neeraj Kumar, Sudip Misra, Joel J.P.C. Rodrigues, Jong-Hyouk Lee, Mohammad S. Obaidat, and Naveen Chilamkurti, "Playing the Smart Grid Game: Performance Analysis of Intelligent Energy Harvesting and Traffic Flow Forecasting for Plug-In Electric Vehicles", [IEEE Vehicular Technology Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10209), vol. 10, no. 4, pp. 81-92, December 2015. (IF: 1.75(2014), SCIE)
+0. Neeraj Kumar, Sudip Misra, Joel J.P.C. Rodrigues, Jong-Hyouk Lee, Mohammad S. Obaidat, and Naveen Chilamkurti, "Playing the Smart Grid Game: Performance Analysis of Intelligent Energy Harvesting and Traffic Flow Forecasting for Plug-In Electric Vehicles", [IEEE Vehicular Technology Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10209), vol. 10, no. 4, pp. 81-92, December 2015.
 
-0. Ou Ruan, Neeraj Kumar, Debiao He, and Jong-Hyouk Lee, Efficient Provably Secure Password-based Explicit Authenticated Key Agreement, [Pervasive and Mobile Computing](https://www.journals.elsevier.com/pervasive-and-mobile-computing), vol. 24, pp. 50-60, December 2015. (IF: 2.079(2014): SCIE)
+0. Ou Ruan, Neeraj Kumar, Debiao He, and Jong-Hyouk Lee, Efficient Provably Secure Password-based Explicit Authenticated Key Agreement, [Pervasive and Mobile Computing](https://www.journals.elsevier.com/pervasive-and-mobile-computing), vol. 24, pp. 50-60, December 2015. 
 
-0. Zhiwei Yan, Jong-Hyouk Lee, Xiaodong Lee, and Yong-Jin Park, "Utilizing the Domain Name System for Scalable and Secure Named Data Networking," [Wireless Personal Communications](https://www.springer.com/journal/11277), vol. 84, no. 3, pp. 2135-2149, October 2015. (IF: 0.653(2014), SCIE)
+0. Zhiwei Yan, Jong-Hyouk Lee, Xiaodong Lee, and Yong-Jin Park, "Utilizing the Domain Name System for Scalable and Secure Named Data Networking," [Wireless Personal Communications](https://www.springer.com/journal/11277), vol. 84, no. 3, pp. 2135-2149, October 2015. 
 
-0. Neeraj Kumar and Jong-Hyouk Lee, "Collaborative-Learning-Automata-Based Channel Assignment With Topology Preservation for Wireless Mesh Networks Under QoS Constraints", [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 9, no. 3, pp. 675-685, September 2015. (IF: 1.980(2014), SCIE)
+0. Neeraj Kumar and Jong-Hyouk Lee, "Collaborative-Learning-Automata-Based Channel Assignment With Topology Preservation for Wireless Mesh Networks Under QoS Constraints", [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 9, no. 3, pp. 675-685, September 2015. 
 
-0. Neeraj Kumar, Jong-Hyouk Lee, and Joel José Puga Coelho Rodrigues, "Intelligent Mobile Video Surveillance System as a Bayesian Coalition Game in Vehicular Sensor Networks: Learning Automata Approach," [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), vol. 16, no. 3, pp. 1148-1161, June 2015. (IF: 2.377(2014), SCI)
+0. Neeraj Kumar, Jong-Hyouk Lee, and Joel José Puga Coelho Rodrigues, "Intelligent Mobile Video Surveillance System as a Bayesian Coalition Game in Vehicular Sensor Networks: Learning Automata Approach," [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), vol. 16, no. 3, pp. 1148-1161, June 2015. 
 
 0. Jong-Hyouk Lee, Giwon Lee, and Sangheon Pack, "Pseudonyms in IPv6 ITS Communications: Use of Pseudonyms, Performance Degradation, and Optimal Pseudonym Change", [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/home/dsn), vol. 2015, 2015. (IF: 0.923(2013), SCIE)
 

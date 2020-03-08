@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Start in Sejong University
 published: true
 ---
 
