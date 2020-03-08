@@ -3,6 +3,8 @@ layout: page
 title: Publication
 ---
 
+- [Publication in Google Scholar](https://scholar.google.fr/citations?hl=en&user=OFLx1-4AAAAJ)
+
 # Working papers
 0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," Future Generation Computer Systems, submitted.
 
@@ -11,8 +13,6 @@ title: Publication
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
-
----
 
 # Published papers
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
