@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publication
+---
 
 # Working papers
 0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," submitted.
