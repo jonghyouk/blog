@@ -9,8 +9,8 @@ I am Jong-Hyouk Lee. I love my wife who has a childlike innocence and my two lit
 
 I'm leading the [Protocol Engineering Lab.](pel.sejong.ac.kr) in [Sejong University](http://eng.sejong.ac.kr/index.do)
 
-- Associate Professor, Sejong University, 2020 - Present
-- Associate Professor, Sangmyung Universtiy, 2019 - 2020
-- Assistant Professor, Sangmyung Universtiy, 2013 - 2019
-- Assistant Professor, TELECOM Bretagne, 2012 - 2013
-- Researcher, INRIA, 2009 - 2012
+- Associate Professor, Sejong University, Korea, 2020 - Present
+- Associate Professor, Sangmyung Universtiy, Korea, 2019 - 2020
+- Assistant Professor, Sangmyung Universtiy, Korea, 2013 - 2019
+- Assistant Professor, TELECOM Bretagne, France, 2012 - 2013
+- Researcher, INRIA, France, 2009 - 2012
