@@ -9,7 +9,7 @@ title: Publication
 # Working papers
 0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems), submitted.
 
-0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," Digital Communications and Networks, submitted.
+0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), submitted.
 
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
@@ -125,13 +125,13 @@ title: Publication
 
 0. Der-Chen Huang and Jong-Hyouk Lee, "A dynamic N threshold prolong lifetime method for wireless sensor nodes," [Mathematical and Computer Modelling](https://www.journals.elsevier.com/mathematical-and-computer-modelling), vol. 57, no. 11–12, pp. 2731-2741, June 2013. (IF: 1.346(2011), SCIE)
 
-0. Jong-Hyouk Lee and Jean-Marie Bonnin, "HOTA: Handover Optimized Ticket-based Authentication in Network-based Mobility Management," Information Sciences, vol. 230, pp. 64-77, May 2013. (IF: 2.833(2011), SCI)
+0. Jong-Hyouk Lee and Jean-Marie Bonnin, "HOTA: Handover Optimized Ticket-based Authentication in Network-based Mobility Management," [Information Sciences](https://www.journals.elsevier.com/information-sciences), vol. 230, pp. 64-77, May 2013. (IF: 2.833(2011), SCI)
 
-0. Jong-Hyouk Lee, Jean-Marie Bonnin, Ilsun You, and Tai-Myoung Chung, "Comparative Handover Performance Analysis of IPv6 Mobility Management Protocols," IEEE Transactions on Industrial Electronics, vol. 60, no. 3, pp. 1077-1088, March 2013. (IF: 5.160(2011), SCI)
+0. Jong-Hyouk Lee, Jean-Marie Bonnin, Ilsun You, and Tai-Myoung Chung, "Comparative Handover Performance Analysis of IPv6 Mobility Management Protocols," [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41), vol. 60, no. 3, pp. 1077-1088, March 2013. (IF: 5.160(2011), SCI)
 
 0. Zhiwei Yan and Jong-Hyouk Lee, "State-aware Pointer Forwarding Scheme with Fast Handover Support in a PMIPv6 Domain," [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), vol. 7, no. 1, pp. 92-101, March 2013. (IF: 0.825(2009), 0.619(2010), 0.923(2011), SCIE)
 
-0. Neeraj Kumar, Naveen Chilamkurti, and Jong-Hyouk Lee, "Distributed Context Aware Collaborative Filtering Approach for P2P Service Selection and Recovery in Wireless Mesh Networks," Peer-to-Peer Networking and Applications, vol. 5, no. 4, pp. 350-362, December 2012 (IF: 0.229(2011), SCIE)
+0. Neeraj Kumar, Naveen Chilamkurti, and Jong-Hyouk Lee, "Distributed Context Aware Collaborative Filtering Approach for P2P Service Selection and Recovery in Wireless Mesh Networks," [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083), vol. 5, no. 4, pp. 350-362, December 2012 (IF: 0.229(2011), SCIE)
 
 0. Zhiwei Yan, Jong-Hyouk Lee, and Liming Wang, "NGMIP: Network Based Global Mobility Support," International Journal of Internet Protocol Technology, vol. 7, no. 2, pp. 96-107, November, 2012.
 

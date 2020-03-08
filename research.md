@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Research
 ---
 
-Something about me.
-
-I am Jong-Hyouk Lee. I love my wife who has a childlike innocence and my two little sons - Jangwoo and Hyunwoo, so I have got to take care of my family in all my life, but I have not yet been firm on my legs. I received my B.S. degree in Information System Engineering from Daejeon University in 2004 and carried the M.S. and Ph.D. work in Computer Engineering under Prof. Tai-Myoung Chung at Sungkyunkwan University, Korea (M.S., 2007; Ph.D., 2010). In 2009, I joined the project team IMARA at INRIA, where I undertook the protocol design and implementation for IPv6 vehicular (ITS) communication and security. I started my academic profession at the Network, Security, and Multimedia (RSM) Department of TELECOM Bretagne, France in 2012 as an Assistant Professor. In September 2013, I moved to Sangmyung University, Korea. In March 2020, I joined the [Department of Computer and Information Security](http://home.sejong.ac.kr/~isdpt/), [Sejong University](http://eng.sejong.ac.kr/index.do) as an Associate Professor. I'm involved in standardization activities at the ISO TC204 WG16, ETSI TC ITS, and IETF. I twice received Excellent Research Awards from the School of Information and Communication Engineering, Sungkyunkwan University, Korea. I won the Best Paper Award at the *IEEE WiMob 2012* and received the 2015 Best Land Transportation Paper Award from the *IEEE Vehicular Technology Society*. In November 2014, I was selected as the Young Researcher of the Month by the *National Research Foundation of Korea (NRF)*. I received the Haedong Young Scholar Award from *Haedong Science and Culture Foundation* in 2017, and IEEE Systems Journal Best Paper Award from *IEEE Systems Council* in 2018. I was a tutorial speaker at the *IEEE WCNC 2013* and *IEEE VTC 2014 Spring*. I'm a general chair of *Qshine 2016* and technical program chair of the *IEEE ICCE 2017* and *IEEE ICCE 2018*. I'm a senior member of the IEEE. I'm an associate editor for [IEEE Transactions on Consumer Electronics](https://cesoc.ieee.org/publications/ieee-transactions-on-consumer-electronics.html) and [IEEE Consumer Electronics Magazine](https://cesoc.ieee.org/publications/ce-magazine.html). I'm an author of the following Internet Standards: IETF RFC 8127, 8191, and 8691. Research interests include protocol engineering, malware analysis, and blockchain.
+Something about my research.
 
 I'm leading the [Protocol Engineering Lab.](pel.sejong.ac.kr) in [Sejong University](http://eng.sejong.ac.kr/index.do)
