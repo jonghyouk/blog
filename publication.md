@@ -8,6 +8,7 @@ title: Publication
 
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing,"
    in preparation.
+---
 
 # Published papers
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
