@@ -5,8 +5,6 @@ title: Publication
 # Working papers
 0. Zhiwei Yan and Jong-Hyouk Lee, "The Road to DNS Privacy," submitted.
 
----
-
 # Published papers
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
 
