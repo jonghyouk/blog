@@ -27,9 +27,9 @@ title: Publication
 
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, "Authentication Protocols for the Internet of Drones: Taxonomy, Analysis and Future Directions," [Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652), accepted.
 
-0. Soonhong Kwon and Jong-Hyouk Lee, "DIVDS: Docker Image Vulnerability Diagnostic System," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), accepted.
+0. Soonhong Kwon and Jong-Hyouk Lee, ["DIVDS: Docker Image Vulnerability Diagnostic System,"](https://doi.org/10.1109/ACCESS.2020.2976874) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 42666-42673, March 2020.
 
-0. Seoyun Choi and Jong-Hyouk Lee, "Blockchain-based Distributed Firmware Update Architecture for IoT Devices," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 37518-37525, February 2020.
+0. Seoyun Choi and Jong-Hyouk Lee, ["Blockchain-based Distributed Firmware Update Architecture for IoT Devices,"](https://doi.org/10.1109/ACCESS.2020.2975920) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 37518-37525, February 2020.
 
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, "A Mean Quantization Watermarking Scheme for Audio Signals Using Singular-Value Decomposition," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 7, pp. 157480-157488, October 2019.
 
