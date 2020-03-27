@@ -16,7 +16,8 @@ title: Publication
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
 {: reversed="reversed" }
 
-# Published papers
+# Accepted papers
+
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, "A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing," [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
@@ -27,7 +28,11 @@ title: Publication
 
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, "Authentication Protocols for the Internet of Drones: Taxonomy, Analysis and Future Directions," [Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652), accepted.
 
-0. Soonhong Kwon and Jong-Hyouk Lee, ["DIVDS: Docker Image Vulnerability Diagnostic System,"](https://doi.org/10.1109/ACCESS.2020.2976874) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 42666-42673, March 2020.
+{: reversed="reversed" }
+
+# Published papers
+
+0. Soonhong Kwon and Jong-Hyouk Lee, "[DIVDS: Docker Image Vulnerability Diagnostic System,"](https://doi.org/10.1109/ACCESS.2020.2976874) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 42666-42673, March 2020.
 
 0. Seoyun Choi and Jong-Hyouk Lee, ["Blockchain-based Distributed Firmware Update Architecture for IoT Devices,"](https://doi.org/10.1109/ACCESS.2020.2975920) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 37518-37525, February 2020.
 
