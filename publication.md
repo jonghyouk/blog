@@ -17,7 +17,6 @@ title: Publication
 {: reversed="reversed" }
 
 # Accepted papers
-
 0. Shijie Zhang and Jong-Hyouk Lee, "Mitigations on Sybil-based Double-spend Attacks in Bitcoin," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, "A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing," [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
@@ -27,7 +26,6 @@ title: Publication
 0. Sein Myung and Jong-Hyouk Lee, "Ethereum Smart Contract based Automated Power Trading Algorithm in a Microgrid Environment," [Journal of Supercomputing](https://www.springer.com/journal/11227), accepted.
 
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, "Authentication Protocols for the Internet of Drones: Taxonomy, Analysis and Future Directions," [Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652), accepted.
-
 {: reversed="reversed" }
 
 # Published papers
