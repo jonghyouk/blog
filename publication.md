@@ -11,13 +11,17 @@ title: Publication
 
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), submitted.
 
+0. Dongjie Liu and Jong-Hyouk Lee, "CNN based Malicious Website Detection by Invalidating Multiple Web Spams," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), submitted.
+
+0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), submitted.
+
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
 {: reversed="reversed" }
 
 # Accepted papers
-0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"] [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), accepted.
+0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 9, no. 6, accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, ["A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing,"](https://doi.org/10.1109/JIOT.2019.2960027) [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
 
@@ -162,7 +166,7 @@ title: Publication
 
 0. Jong-Hyouk Lee and Tai-Myoung Chung, ["Secure Handover for Proxy Mobile IPv6 in Next-Generation Communications: Scenarios and Performance,"](https://doi.org/10.1002/wcm.895) [Wireless Communications & Mobile Computing](https://onlinelibrary.wiley.com/loi/15308677/year/2011), vol. 11, no. 2, pp. 176-186, February 2011.
 
-• 0. Jong-Hyouk Lee, Moonseong Kim, Byoung-Soo Koh, and Tai-Myoung Chung, ["Adaptive Authentication and Registration Key Management Scheme based on AAA Architecture,"](https://doi.org/10.1080/10798587.2010.10643098) [Intelligent Automation and Soft Computing](http://autosoftjournal.net/index.php), vol. 16, no. 4, pp. 519-536, 2010.
+0. Jong-Hyouk Lee, Moonseong Kim, Byoung-Soo Koh, and Tai-Myoung Chung, ["Adaptive Authentication and Registration Key Management Scheme based on AAA Architecture,"](https://doi.org/10.1080/10798587.2010.10643098) [Intelligent Automation and Soft Computing](http://autosoftjournal.net/index.php), vol. 16, no. 4, pp. 519-536, 2010.
 
 0. Ilsun You, Jong-Hyouk Lee, and Bonam Kim, ["caTBUA: Context-aware ticket-based binding update authentication protocol for trust-enabled mobile networks,"](https://doi.org/10.1002/dac.1113) [International Journal of Communication Systems](https://onlinelibrary.wiley.com/journal/10991131?tabActivePane=), vol. 23, no. 11, pp. 1382-1404, November 2010.
 
