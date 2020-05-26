@@ -11,8 +11,6 @@ title: Publication
 
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), submitted.
 
-0. Dongjie Liu and Jong-Hyouk Lee, "CNN based Malicious Website Detection by Invalidating Multiple Web Spams," [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), submitted.
-
 0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), submitted.
 
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
@@ -23,8 +21,6 @@ title: Publication
 # Accepted papers
 0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 9, no. 6, accepted.
 
-0. Shijie Zhang and Jong-Hyouk Lee, ["A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing,"](https://doi.org/10.1109/JIOT.2019.2960027) [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), accepted.
-
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, ["Design of a blind quantization based audio watermarking scheme using singular value decomposition,"](https://doi.org/10.1002/cpe.5253) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
 0. Sein Myung and Jong-Hyouk Lee, ["Ethereum Smart Contract-based Automated Power Trading Algorithm in a Microgrid Environment,"](https://doi.org/10.1007/s11227-018-2697-7) [Journal of Supercomputing](https://www.springer.com/journal/11227), accepted.
@@ -33,6 +29,10 @@ title: Publication
 {: reversed="reversed" }
 
 # Published papers
+
+0. Dongjie Liu and Jong-Hyouk Lee, ["CNN based Malicious Website Detection by Invalidating Multiple Web Spams,"](https://doi.org/10.1109/ACCESS.2020.2995157) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. ???-???, May 2020.
+
+0. Shijie Zhang and Jong-Hyouk Lee, ["A Group Signature and Authentication Scheme for Blockchain-based Mobile Edge Computing,"](https://doi.org/10.1109/JIOT.2019.2960027) [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), vol. 7, no. 5, pp. 4557-4565, May 2020.
 
 0. Soonhong Kwon and Jong-Hyouk Lee, ["DIVDS: Docker Image Vulnerability Diagnostic System,"](https://doi.org/10.1109/ACCESS.2020.2976874) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 42666-42673, March 2020.
 
