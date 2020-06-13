@@ -24,12 +24,12 @@ title: Publication
 
 0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, ["Design of a blind quantization based audio watermarking scheme using singular value decomposition,"](https://doi.org/10.1002/cpe.5253) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
-0. Sein Myung and Jong-Hyouk Lee, ["Ethereum Smart Contract-based Automated Power Trading Algorithm in a Microgrid Environment,"](https://doi.org/10.1007/s11227-018-2697-7) [Journal of Supercomputing](https://www.springer.com/journal/11227), accepted.
-
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, ["Authentication Protocols for the Internet of Drones: Taxonomy, Analysis and Future Directions,"](https://doi.org/10.1007/s12652-018-1006-x) [Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652), accepted.
 {: reversed="reversed" }
 
 # Published papers
+
+0. Sein Myung and Jong-Hyouk Lee, ["Ethereum Smart Contract-based Automated Power Trading Algorithm in a Microgrid Environment,"](https://doi.org/10.1007/s11227-018-2697-7) [Journal of Supercomputing](https://www.springer.com/journal/11227), vol. 76, no. 7, pp. 4904-4914, July 2020.
 
 0. Dongjie Liu and Jong-Hyouk Lee, ["CNN based Malicious Website Detection by Invalidating Multiple Web Spams,"](https://doi.org/10.1109/ACCESS.2020.2995157) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 97258-97266, May 2020.
 
