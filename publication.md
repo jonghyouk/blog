@@ -18,7 +18,6 @@ title: Publication
 {: reversed="reversed" }
 
 # Accepted papers
-0. Zhiwei Yan and Jong-Hyouk Lee, ["The Road to DNS Privacy,"](https://doi.org/10.1016/j.future.2020.06.012) [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 9, no. 6, accepted.
 
@@ -28,6 +27,8 @@ title: Publication
 {: reversed="reversed" }
 
 # Published papers
+
+0. Zhiwei Yan and Jong-Hyouk Lee, ["The Road to DNS Privacy,"](https://doi.org/10.1016/j.future.2020.06.012) [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems), vol. 122, pp. 604-611, November 2020.
 
 0. Sein Myung and Jong-Hyouk Lee, ["Ethereum Smart Contract-based Automated Power Trading Algorithm in a Microgrid Environment,"](https://doi.org/10.1007/s11227-018-2697-7) [Journal of Supercomputing](https://www.springer.com/journal/11227), vol. 76, no. 7, pp. 4904-4914, July 2020.
 
