@@ -7,10 +7,11 @@ title: Publication
 - [ORCID: 0000-0002-1753-1284](https://orcid.org/0000-0002-1753-1284)
 
 # Working papers
+0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing on Users' Side," [Sensors](https://www.mdpi.com/journal/sensors), submitted.
 
-0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), submitted.
+0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), revision.
 
-0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), submitted.
+0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), revision.
 
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
