@@ -7,6 +7,8 @@ title: Publication
 - [ORCID: 0000-0002-1753-1284](https://orcid.org/0000-0002-1753-1284)
 
 # Working papers
+0. Jong-Hyouk Lee, Zhiwei Yan, and Yong Jin Park, "BGPChain: Constructing a Secure, Smart and Agile Routing Infrastructure based on Blockchain," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), submitted.
+
 0. Jong-Hyouk Lee and Kamal Singh, "SwitchTree: In-Network Computing and Traffic Analyses with Random Forests," [Neural Computing and Applications](https://www.springer.com/journal/521), submitted.
 
 0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing on Users' Side," [Sensors](https://www.mdpi.com/journal/sensors), submitted.
