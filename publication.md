@@ -7,6 +7,8 @@ title: Publication
 - [ORCID: 0000-0002-1753-1284](https://orcid.org/0000-0002-1753-1284)
 
 # Working papers
+0. Jong-Hyouk Lee and Kamal Singh, "SwitchTree: In-Network Computing and Traffic Analyses with Random Forests," [Neural Computing and Applications](https://www.springer.com/journal/521), submitted.
+
 0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing on Users' Side," [Sensors](https://www.mdpi.com/journal/sensors), submitted.
 
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), revision.
