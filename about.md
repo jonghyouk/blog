@@ -14,3 +14,15 @@ I'm leading the [Protocol Engineering Lab.](pel.sejong.ac.kr) in [Sejong Univers
 - Assistant Professor, Sangmyung Universtiy, Korea, 2013 - 2019
 - Assistant Professor, TELECOM Bretagne, France, 2012 - 2013
 - Researcher, INRIA, France, 2009 - 2012
+
+I'm involved in the following professional editorial services.
+
+- Editor in Chief, [International Journal of Internet Technology and Secured Transactions](https://www.inderscience.com/jhome.php?jcode=ijitst) (Inderscience, ISSN: 1748-569X, 2016/01 - present)
+- Associate Editor, [Security and Communication Networks](https://www.hindawi.com/journals/scn/) (Hindawi, ISSN: 1939-0114, 2010/07 - present)
+- Associate Editor, [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) (IEEE, ISSN: 0098-3063, 2011/06 - present)
+- Associate Editor, [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380) (IEEE, ISSN: 2162-2248, 2016/07 - present)
+- Associate Editor, [Annals of Telecommunications](https://www.springer.com/journal/12243) (Springer, ISSN: 0003-4347, 2014/02 - present)
+- Associate Editor, [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326) (Wiley, ISSN: 2233-7326, 2017/09 - present)
+- Associate Editor, Security and Privacy (Wiley, ISSN: 2475-6725, 2017/09 - present)
+- Associate Editor, [Journal of Sensor and Actuator Networks](https://www.mdpi.com/journal/jsan) (MDPI, ISSN: 2224-2708, 2020/07 - present)
+- Associate Editor, [Telecom](https://www.mdpi.com/journal/telecom) (MDPI, ISSN: 2673-4001, 2020/07 - present) 
