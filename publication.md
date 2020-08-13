@@ -13,14 +13,14 @@ title: Publication
 
 0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing on Users' Side," [Sensors](https://www.mdpi.com/journal/sensors), submitted.
 
-0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), revision.
-
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
 {: reversed="reversed" }
 
 # Accepted papers
+0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
+
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 9, no. 6, accepted.
