@@ -21,7 +21,7 @@ title: Publication
 # Accepted papers
 0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
-0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, "Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks," [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), accepted.
+0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, ["Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks,"](https://doi.org/10.1016/j.dcan.2020.08.002) [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 9, no. 6, accepted.
 
