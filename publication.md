@@ -9,11 +9,13 @@ title: Publication
 # Working papers
 0. Jong-Hyouk Lee, Zhiwei Yan, and Yong Jin Park, "BGPChain: Constructing a Secure, Smart and Agile Routing Infrastructure based on Blockchain," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), submitted.
 
+0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing," [Big Data](https://home.liebertpub.com/publications/big-data/611/overview), submitted.
+
+0. Yinglong Wang, Xinchang Zhang, Zhiwei Yan, and Jong-Hyouk Lee, "On Group-Cooperative and D2D-Assisted Content Delivery for VoD Multimedia Data," [Multimedia Tools and Applications](https://www.springer.com/journal/11042), revision.
+
 0. Jong-Hyouk Lee and Kamal Singh, "SwitchTree: In-Network Computing and Traffic Analyses with Random Forests," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
 
 0. Dongjie Liu and Jong-Hyouk Lee, "A CNN-Based Phishing Detection Method on SIA Screenshot from Users’ Perspective," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
-
-0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing," [Big Data](https://home.liebertpub.com/publications/big-data/611/overview), submitted.
 
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
