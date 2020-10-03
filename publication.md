@@ -11,7 +11,9 @@ title: Publication
 
 0. Jong-Hyouk Lee and Kamal Singh, "SwitchTree: In-Network Computing and Traffic Analyses with Random Forests," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
 
-0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing on Users' Side," [Sensors](https://www.mdpi.com/journal/sensors), submitted.
+0. Dongjie Liu and Jong-Hyouk Lee, "A CNN-Based Phishing Detection Method on SIA Screenshot from Users’ Perspective," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
+
+0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing," [Big Data](https://home.liebertpub.com/publications/big-data/611/overview), submitted.
 
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
