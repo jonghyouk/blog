@@ -7,13 +7,10 @@ title: Publication
 - [ORCID: 0000-0002-1753-1284](https://orcid.org/0000-0002-1753-1284)
 
 # Working papers
-0. Jong-Hyouk Lee, Zhiwei Yan, and Yong Jin Park, "BGPChain: Constructing a Secure, Smart and Agile Routing Infrastructure based on Blockchain," [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), submitted.
 
 0. Dongjie Liu and Jong-Hyouk Lee, "The Design and Evaluation of an Education Game to Combat Phishing," [Big Data](https://home.liebertpub.com/publications/big-data/611/overview), submitted.
 
 0. Yinglong Wang, Xinchang Zhang, Zhiwei Yan, and Jong-Hyouk Lee, "On Group-Cooperative and D2D-Assisted Content Delivery for VoD Multimedia Data," [Multimedia Tools and Applications](https://www.springer.com/journal/11042), revision.
-
-0. Jong-Hyouk Lee and Kamal Singh, "SwitchTree: In-Network Computing and Traffic Analyses with Random Forests," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
 
 0. Dongjie Liu and Jong-Hyouk Lee, "A CNN-Based Phishing Detection Method on SIA Screenshot from Users’ Perspective," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
 
@@ -23,13 +20,15 @@ title: Publication
 {: reversed="reversed" }
 
 # Accepted papers
-0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, "Protocol Fuzzing to find security vulnerabilities of RabbitMQ," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
+0. Zhiwei Yan and Jong-Hyouk Lee, "BGPChain: Constructing a Secure, Smart, and Agile Routing Infrastructure based on Blockchain," [ICT Express](https://www.journals.elsevier.com/ict-express), accepted.
+
+0. Jong-Hyouk Lee and Kamal Singh, ["SwitchTree: In-Network Computing and Traffic Analyses with Random Forests,"](https://doi.org/10.1007/s00521-020-05440-2) [Neural Computing and Applications](https://www.springer.com/journal/521), accepted.
+
+0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, ["Protocol Fuzzing to find security vulnerabilities of RabbitMQ,"](https://doi.org/10.1002/cpe.6012) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, ["Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks,"](https://doi.org/10.1016/j.dcan.2020.08.002) [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), accepted.
 
-0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 9, no. 6, accepted.
-
-0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, ["Design of a blind quantization based audio watermarking scheme using singular value decomposition,"](https://doi.org/10.1002/cpe.5253) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
+0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 10, no. 2, accepted.
 
 0. Mohammad Wazid, Ashok Kumar Das, and Jong-Hyouk Lee, ["Authentication Protocols for the Internet of Drones: Taxonomy, Analysis and Future Directions,"](https://doi.org/10.1007/s12652-018-1006-x) [Journal of Ambient Intelligence and Humanized Computing](https://www.springer.com/journal/12652), accepted.
 {: reversed="reversed" }
@@ -38,7 +37,11 @@ title: Publication
 
 0. Zhiwei Yan and Jong-Hyouk Lee, ["The Road to DNS Privacy,"](https://doi.org/10.1016/j.future.2020.06.012) [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems), vol. 122, pp. 604-611, November 2020.
 
+0. K. Vivekananda Bhat, Ashok Kumar Das, and Jong-Hyouk Lee, ["Design of a blind quantization based audio watermarking scheme using singular value decomposition,"](https://doi.org/10.1002/cpe.5253) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), vol. 32, no. 18, September 2020.
+
 0. Sein Myung and Jong-Hyouk Lee, ["Ethereum Smart Contract-based Automated Power Trading Algorithm in a Microgrid Environment,"](https://doi.org/10.1007/s11227-018-2697-7) [Journal of Supercomputing](https://www.springer.com/journal/11227), vol. 76, no. 7, pp. 4904-4914, July 2020.
+
+Shijie Zhang and Jong-Hyouk Lee, "[Analysis of the main consensus protocols of blockchain,"](https://doi.org/10.1016/j.icte.2019.08.001), [ICT Express](https://www.journals.elsevier.com/ict-express), vol. 6, no. 2, pp. 93-97, June 2020.
 
 0. Dongjie Liu and Jong-Hyouk Lee, ["CNN based Malicious Website Detection by Invalidating Multiple Web Spams,"](https://doi.org/10.1109/ACCESS.2020.2995157) [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), vol. 8, pp. 97258-97266, May 2020.
 
