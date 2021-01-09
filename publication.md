@@ -20,7 +20,9 @@ title: Publication
 {: reversed="reversed" }
 
 # Accepted papers
-0. Zhiwei Yan and Jong-Hyouk Lee, "BGPChain: Constructing a Secure, Smart, and Agile Routing Infrastructure based on Blockchain," [ICT Express](https://www.journals.elsevier.com/ict-express), accepted.
+0. Anusha Vangala, Ashok Kumar Das, and Jong-Hyouk Lee, "Provably-secure signature-based anonymous user authentication protocol in an IoT-enabled intelligent precision agricultural environment," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
+
+0. Zhiwei Yan and Jong-Hyouk Lee, ["BGPChain: Constructing a Secure, Smart, and Agile Routing Infrastructure based on Blockchain,"](https://doi.org/10.1016/j.icte.2020.12.005) [ICT Express](https://www.journals.elsevier.com/ict-express), accepted.
 
 0. Jong-Hyouk Lee and Kamal Singh, ["SwitchTree: In-Network Computing and Traffic Analyses with Random Forests,"](https://doi.org/10.1007/s00521-020-05440-2) [Neural Computing and Applications](https://www.springer.com/journal/521), accepted.
 
