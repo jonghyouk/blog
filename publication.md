@@ -12,8 +12,6 @@ title: Publication
 
 0. Dongjie Liu and Jong-Hyouk Lee, "A CNN-Based Phishing Detection Method on SIA Screenshot from Users’ Perspective," [Neural Computing and Applications](https://www.springer.com/journal/521), revision.
 
-0. Jong-Hyouk Lee, Zhiwei Yan, and Xinchang Zhang, "Group-Cooperative D2D-Assisted Content Delivery for Transformative Computing," [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), submitted.
-
 0. Jong-Hyouk Lee, "Blockchain based Anonymous Authentication for Mobile Devices in 5G Multi-Access Edge Computing," in preparation.
 
 0. Jong-Hyouk Lee, "Blockchain based Service-level Anonymous Authentication in 5G Multi-Access Edge Computing," in preparation.
@@ -22,6 +20,8 @@ title: Publication
 # Accepted papers
 0. Anusha Vangala, Ashok Kumar Das, and Jong-Hyouk Lee, "Provably-secure signature-based anonymous user authentication protocol in an IoT-enabled intelligent precision agricultural environment," [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
+0. Dongjie Liu and Jong-Hyouk Lee, "CFLedger: Preventing Chargeback Fraud with Blockchain," [ICT Express](https://www.journals.elsevier.com/ict-express), accepted.
+
 0. Zhiwei Yan and Jong-Hyouk Lee, ["BGPChain: Constructing a Secure, Smart, and Agile Routing Infrastructure based on Blockchain,"](https://doi.org/10.1016/j.icte.2020.12.005) [ICT Express](https://www.journals.elsevier.com/ict-express), accepted.
 
 0. Jong-Hyouk Lee and Kamal Singh, ["SwitchTree: In-Network Computing and Traffic Analyses with Random Forests,"](https://doi.org/10.1007/s00521-020-05440-2) [Neural Computing and Applications](https://www.springer.com/journal/521), accepted.
@@ -29,6 +29,8 @@ title: Publication
 0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, ["Protocol Fuzzing to find security vulnerabilities of RabbitMQ,"](https://doi.org/10.1002/cpe.6012) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
 0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, ["Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks,"](https://doi.org/10.1016/j.dcan.2020.08.002) [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), accepted.
+
+0. Jong-Hyouk Lee, Zhiwei Yan, and Xinchang Zhang, ["Optimized video content delivery for mobile networks using the transformative computing model,"](https://doi.org/10.1016/j.asoc.2021.107477) [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 10, no. 2, accepted.
 
