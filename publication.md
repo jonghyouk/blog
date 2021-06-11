@@ -28,8 +28,6 @@ title: Publication
 
 0. Soonhong Kwon, Sang-Jin Son, Yangseo Choi, and Jong-Hyouk Lee, ["Protocol Fuzzing to find security vulnerabilities of RabbitMQ,"](https://doi.org/10.1002/cpe.6012) [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/journal/15320634), accepted.
 
-0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, ["Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks,"](https://doi.org/10.1016/j.dcan.2020.08.002) [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), accepted.
-
 0. Jong-Hyouk Lee, Zhiwei Yan, and Xinchang Zhang, ["Optimized video content delivery for mobile networks using the transformative computing model,"](https://doi.org/10.1016/j.asoc.2021.107477) [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing), accepted.
 
 0. Shijie Zhang and Jong-Hyouk Lee, ["Mitigations on Sybil-based Double-spend Attacks in Bitcoin,"](https://doi.org/10.1109/MCE.2020.2988031) [IEEE Consumer Electronics Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962380), vol. 10, no. 2, accepted.
@@ -38,6 +36,8 @@ title: Publication
 {: reversed="reversed" }
 
 # Published papers
+
+0. Inam Ullah, Siyu Qian, Zhixiang Deng, and Jong-Hyouk Lee, ["Extended Kalman Filter-based Localization Algorithm by Edge Computing in Wireless Sensor Networks,"](https://doi.org/10.1016/j.dcan.2020.08.002) [Digital Communications and Networks](http://www.keaipublishing.com/en/journals/digital-communications-and-networks/), vol. 7, no. 2, pp. 187-195, May 2021.
 
 0. Zhiwei Yan and Jong-Hyouk Lee, ["The Road to DNS Privacy,"](https://doi.org/10.1016/j.future.2020.06.012) [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems), vol. 122, pp. 604-611, November 2020.
 
